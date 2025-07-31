@@ -12,9 +12,6 @@ namespace TwoSum
             int[] resultado = S.TwoSum(nums,target);
             Console.WriteLine($"Dict[complemento] = {resultado[0]} , indice de nums = {resultado[1]} pois {nums[resultado[0]]} + {nums[resultado[1]]} = {target}");
 
-
-
-
         }
     }
 }
