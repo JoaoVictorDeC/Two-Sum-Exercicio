@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\programs\\TwoSumExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|x:\\programs\\twosumexercise\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|x:\\programs\\twosumexercise\\solution\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|solutionrelative:solution\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|x:\\programs\\twosumexercise\\twosumexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|solutionrelative:twosumexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|x:\\programs\\twosumexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86470A26-8FC5-41C0-BC91-AF3820EA18FA}|TwoSumExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "X:\\programs\\TwoSumExercise\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "X:\\programs\\TwoSumExercise\\Readme.md*",
+              "RelativeToolTip": "Readme.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-31T13:16:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "X:\\programs\\TwoSumExercise\\Solution\\Solution.cs",
+              "RelativeDocumentMoniker": "Solution\\Solution.cs",
+              "ToolTip": "X:\\programs\\TwoSumExercise\\Solution\\Solution.cs*",
+              "RelativeToolTip": "Solution\\Solution.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:19:51.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoSumExercise.csproj",
+              "DocumentMoniker": "X:\\programs\\TwoSumExercise\\TwoSumExercise.csproj",
+              "RelativeDocumentMoniker": "TwoSumExercise.csproj",
+              "ToolTip": "X:\\programs\\TwoSumExercise\\TwoSumExercise.csproj",
+              "RelativeToolTip": "TwoSumExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T04:18:59.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\programs\\TwoSumExercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\programs\\TwoSumExercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:17:46.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

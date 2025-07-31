@@ -1,0 +1,14 @@
+X:\programs\TwoSumExercise\bin\Debug\net9.0\TwoSumExercise.exe
+X:\programs\TwoSumExercise\bin\Debug\net9.0\TwoSumExercise.deps.json
+X:\programs\TwoSumExercise\bin\Debug\net9.0\TwoSumExercise.runtimeconfig.json
+X:\programs\TwoSumExercise\bin\Debug\net9.0\TwoSumExercise.dll
+X:\programs\TwoSumExercise\bin\Debug\net9.0\TwoSumExercise.pdb
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.GeneratedMSBuildEditorConfig.editorconfig
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.AssemblyInfoInputs.cache
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.AssemblyInfo.cs
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.csproj.CoreCompileInputs.cache
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.dll
+X:\programs\TwoSumExercise\obj\Debug\net9.0\refint\TwoSumExercise.dll
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.pdb
+X:\programs\TwoSumExercise\obj\Debug\net9.0\TwoSumExercise.genruntimeconfig.cache
+X:\programs\TwoSumExercise\obj\Debug\net9.0\ref\TwoSumExercise.dll
